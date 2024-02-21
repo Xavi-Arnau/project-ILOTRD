@@ -1,0 +1,86 @@
+* {
+  transition: all ease-in-out 250ms;
+}
+
+body {
+  background-image: url(../images/bgpergamino.jpg);
+}
+
+main {
+  background-color: white;
+  border-radius: 15px;
+  min-height: 83vh;
+}
+#footer {
+  background-color: white;
+  margin-top: 1em;
+}
+#footer p {
+  margin-left: 2em;
+  font-weight: bold;
+  font-size: 1em;
+}
+/*index*/
+#books-list .card {
+  margin-bottom: 1em;
+  min-height: 330px;
+}
+
+#movies-list .card {
+  margin-bottom: 1em;
+  min-height: 260px;
+}
+
+#movies-list img {
+  border-radius: 1.5em;
+  padding: 1em;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #bc4749;
+  /*text-shadow: 0 0 0.5em rgba(0, 0, 0, 0.25);*/
+}
+
+p.movie-title {
+  padding: 0px 5px;
+}
+
+ul.pagination {
+  margin-top: 2em;
+}
+
+/*character*/
+#character-pic {
+  border-radius: 1.5em;
+  padding: 1em;
+}
+
+/*favorites*/
+
+#favorites img {
+  width: 100px; /* You can set the dimensions to whatever you want */
+  height: 100px;
+  object-fit: cover;
+}
+
+#favorites h5 {
+  min-height: 50px;
+}
+
+/*quiz*/
+
+#scores p {
+  font-size: 2em;
+}
+
+.blink {
+  animation: blinker 1s linear 1;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0.3;
+  }
+}

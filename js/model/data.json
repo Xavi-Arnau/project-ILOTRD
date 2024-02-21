@@ -1,0 +1,107 @@
+{
+  "movies": [
+    {
+      "id": "5cd95395de30eff6ebccde5c",
+      "image": "./images/fellowship.jpg",
+      "description": "Set in Middle-earth, the story tells of the Dark Lord Sauron, who seeks the One Ring, which contains part of his might, to return to power. The Ring has found its way to the young hobbit Frodo Baggins. The fate of Middle-earth hangs in the balance as Frodo and eight companions (who form the Fellowship of the Ring) begin their perilous journey to Mount Doom in the land of Mordor, the only place where the Ring can be destroyed. The Fellowship of the Ring was financed and distributed by American studio New Line Cinema, but filmed and edited entirely in Jackson's native New Zealand, concurrently with the other two parts of the trilogy."
+    },
+    {
+      "id": "5cd95395de30eff6ebccde5b",
+      "image": "./images/towers.jpg",
+      "description": "The Lord of the Rings: The Two Towers is a 2002 epic fantasy adventure film directed by Peter Jackson from a screenplay by Fran Walsh, Philippa Boyens, Stephen Sinclair, and Jackson, based on 1954's The Two Towers, the second volume of the novel The Lord of the Rings by J. R. R. Tolkien. The sequel to 2001's The Lord of the Rings: The Fellowship of the Ring, the film is the second instalment in The Lord of the Rings trilogy. It features an ensemble cast including Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen, Sean Astin, Cate Blanchett, John Rhys-Davies, Bernard Hill, Christopher Lee, Billy Boyd, Dominic Monaghan, Orlando Bloom, Hugo Weaving, Miranda Otto, David Wenham, Brad Dourif, Karl Urban, and Andy Serkis."
+    },
+    {
+      "id": "5cd95395de30eff6ebccde5d",
+      "image": "./images/king.jpg",
+      "description": "The Lord of the Rings: The Return of the King is a 2003 epic fantasy adventure film directed by Peter Jackson from a screenplay by Fran Walsh, Philippa Boyens, and Jackson. It is based on 1955's The Return of the King, the third volume of the novel The Lord of the Rings by J. R. R. Tolkien. The sequel to 2002's The Lord of the Rings: The Two Towers, the film is the final instalment in The Lord of the Rings trilogy. It features an ensemble cast including Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen, Sean Astin, Cate Blanchett, John Rhys-Davies, Bernard Hill, Billy Boyd, Dominic Monaghan, Orlando Bloom, Hugo Weaving, Miranda Otto, David Wenham, Karl Urban, John Noble, Andy Serkis, Ian Holm, and Sean Bean. Continuing the plot of the previous film, Frodo, Sam and Gollum are making their final way toward Mount Doom to destroy the One Ring, unaware of Gollum's true intentions, while Merry, Pippin, Gandalf, Aragorn, Legolas, Gimli and the others join forces together against Sauron and his legions in Minas Tirith."
+    },
+    {
+      "id": "5cd95395de30eff6ebccde58",
+      "image": "./images/journey.jpg",
+      "description": "The Hobbit: An Unexpected Journey is a 2012 epic high fantasy adventure film directed by Peter Jackson from a screenplay by Fran Walsh, Philippa Boyens, Jackson, and Guillermo del Toro, based on the 1937 novel The Hobbit by J. R. R. Tolkien. It is the first installment in The Hobbit trilogy, acting as a prequel to Jackson's The Lord of the Rings trilogy."
+    },
+    {
+      "id": "5cd95395de30eff6ebccde59",
+      "image": "./images/desolation.jpg",
+      "description": "The Hobbit: The Desolation of Smaug is a 2013 epic high fantasy adventure film directed by Peter Jackson from a screenplay by Fran Walsh, Philippa Boyens, Jackson, and Guillermo del Toro, based on the 1937 novel The Hobbit by J. R. R. Tolkien. The sequel to 2012's The Hobbit: An Unexpected Journey, it is the second instalment in The Hobbit trilogy, acting as a prequel to Jackson's The Lord of the Rings trilogy."
+    },
+    {
+      "id": "5cd95395de30eff6ebccde5a",
+      "image": "./images/battle.jpg",
+      "description": "The Hobbit: The Battle of the Five Armies is a 2014 epic high fantasy adventure film directed by Peter Jackson from a screenplay by Fran Walsh, Philippa Boyens, Jackson, and Guillermo del Toro, based on the 1937 novel The Hobbit by J. R. R. Tolkien. The sequel to 2013's The Hobbit: The Desolation of Smaug, it is the final instalment in The Hobbit trilogy, acting as a prequel to Jackson's The Lord of the Rings trilogy."
+    },
+    {
+      "id": "5cd95395de30eff6ebccde56",
+      "image": "./images/lotr trilogy.jpg",
+      "description": "The Lord of the Rings is a trilogy of epic fantasy adventure films directed by Peter Jackson, based on the novel The Lord of the Rings by British author J. R. R. Tolkien. The films are subtitled The Fellowship of the Ring (2001), The Two Towers (2002), and The Return of the King (2003). Produced and distributed by New Line Cinema with the co-production of WingNut Films, the films feature an ensemble cast including Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen, Sean Astin, Cate Blanchett, John Rhys-Davies, Christopher Lee, Billy Boyd, Dominic Monaghan, Orlando Bloom, Hugo Weaving, Andy Serkis and Sean Bean."
+    },
+    {
+      "id": "5cd95395de30eff6ebccde57",
+      "image": "./images/hobbit trilogy.jpg",
+      "description": "The Hobbit is a series of three epic high fantasy adventure films directed by Peter Jackson. The films are subtitled An Unexpected Journey (2012), The Desolation of Smaug (2013), and The Battle of the Five Armies (2014). The films are based on the 1937 novel The Hobbit by J. R. R. Tolkien, with large portions of the trilogy inspired by the appendices to The Return of the King, which expand on the story told in The Hobbit, as well as new material and characters written especially for the films. Together they act as a prequel to Jackson's The Lord of the Rings film trilogy."
+    }
+  ],
+  "books": [
+    {
+      "id": "5cf5805fb53e011a64671582",
+      "image": "./images/1.jpg",
+      "description": "The Fellowship of the Ring is the first of three volumes of the epic novel The Lord of the Rings by the English author J. R. R. Tolkien. It is followed by The Two Towers and The Return of the King. The action takes place in the fictional universe of Middle-earth. The book was first published on 29 July 1954 in the United Kingdom. The volume consists of a foreword, in which the author discusses his writing of The Lord of the Rings, a prologue titled \"Concerning Hobbits, and other matters\", and the main narrative in Book I and Book II."
+    },
+    {
+      "id": "5cf58077b53e011a64671583",
+      "image": "./images/2.jpg",
+      "description": "The Two Towers is the second volume of J. R. R. Tolkien's high fantasy novel The Lord of the Rings. It is preceded by The Fellowship of the Ring and followed by The Return of the King. The volume's title is ambiguous, as five towers are named in the narrative, and Tolkien himself gave conflicting identifications of the two towers. The narrative is interlaced, allowing Tolkien to build in suspense and surprise. The volume was largely welcomed by critics, who found it exciting and compelling, combining epic narrative with heroic romance."
+    },
+    {
+      "id": "5cf58080b53e011a64671584",
+      "image": "./images/3.jpg",
+      "description": "The Return of the King is the third and final volume of J. R. R. Tolkien's The Lord of the Rings, following The Fellowship of the Ring and The Two Towers. It was published in 1955. The story begins in the kingdom of Gondor, which is soon to be attacked by the Dark Lord Sauron."
+    }
+  ],
+  "characters": [
+    {
+      "id": "5cd99d4bde30eff6ebccfbe6",
+      "image": "./images/aragorn.jpg",
+      "description": "Aragorn is a fictional character and a protagonist in J. R. R. Tolkien's The Lord of the Rings. Aragorn was a Ranger of the North, first introduced with the name Strider and later revealed to be the heir of Isildur, an ancient King of Arnor and Gondor. Aragorn was a confidant of the wizard Gandalf, and played a part in the quest to destroy the One Ring and defeat the Dark Lord Sauron. As a young man, Aragorn fell in love with the immortal elf Arwen, as told in \"The Tale of Aragorn and Arwen\". Arwen's father, Elrond Half-elven, forbade them to marry unless Aragorn became King of both Arnor and Gondor."
+    },
+    {
+      "id": "5cd99d4bde30eff6ebccfea0",
+      "image": "./images/gandalf.jpg",
+      "description": "Gandalf is a protagonist in J. R. R. Tolkien's novels The Hobbit and The Lord of the Rings. He is a wizard, one of the Istari order, and the leader of the Fellowship of the Ring. "
+    },
+    {
+      "id": "5cd99d4bde30eff6ebccfc15",
+      "image": "./images/frodo.jpg",
+      "description": "Frodo Baggins is a fictional character in J. R. R. Tolkien's writings, and one of the protagonists in The Lord of the Rings. Frodo is a hobbit of the Shire who inherits the One Ring from his cousin Bilbo Baggins, described familiarly as \"uncle\", and undertakes the quest to destroy it in the fires of Mount Doom in Mordor. He is mentioned in Tolkien's posthumously published works, The Silmarillion and Unfinished Tales."
+    },
+    {
+      "id": "5cd99d4bde30eff6ebccfc7c",
+      "image": "./images/merry.jpg",
+      "description": "Meriadoc Brandybuck, usually called Merry, is a Hobbit, a fictional character from J. R. R. Tolkien's Middle-earth legendarium, featured throughout his most famous work, The Lord of the Rings. Merry is described as one of the closest friends of Frodo Baggins, the main protagonist. Merry and his friend and cousin, Pippin, are members of the Fellowship of the Ring. They become separated from the rest of the group and spend much of The Two Towers making their own decisions. By the time of The Return of the King, Merry has enlisted in the army of Rohan as an esquire to King Théoden, in whose service he fights during the War of the Ring. After the war, he returns home, where he and Pippin lead the Scouring of the Shire, ridding it of Saruman's influence."
+    },
+    {
+      "id": "5cd99d4bde30eff6ebccfe2e",
+      "image": "./images/pippin.jpg",
+      "description": "Peregrin Took, commonly known simply as Pippin, is a fictional character from J. R. R. Tolkien's fantasy novel The Lord of the Rings. He is closely tied with his friend and cousin, Merry Brandybuck, and the two are together during most of the story. Pippin and Merry are introduced as a pair of young hobbits of the Shire who become ensnared in their friend Frodo Baggins's quest to destroy the One Ring. Pippin joins the Fellowship of the Ring. He and Merry become separated from the rest of the group at the breaking of the Fellowship and spend much of The Two Towers with their own story line. Impetuous and curious, Pippin enlists as a soldier in the army of Gondor and fights in the Battle of the Morannon. With the other hobbits, he returns home, helps to lead the Scouring of the Shire, and becomes Thain or hereditary leader of the land."
+    },
+    {
+      "id": "5cd99d4bde30eff6ebccfd0d",
+      "image": "./images/sam.jpg",
+      "description": "Samwise Gamgee is a fictional character in J. R. R. Tolkien's Middle-earth. A hobbit, Samwise is the chief supporting character of The Lord of the Rings, serving as the loyal companion (in effect: \"manservant\") of the protagonist Frodo Baggins. Sam is a member of the Fellowship of the Ring, the group of nine charged with destroying the One Ring to prevent the Dark Lord Sauron from taking over the world."
+    },
+    {
+      "id": "5cd99d4bde30eff6ebccfd81",
+      "image": "./images/legolas.jpg",
+      "description": "Legolas is a fictional character in J. R. R. Tolkien's The Lord of the Rings. He is a Sindar Elf of the Woodland Realm and one of the nine members of the Fellowship who set out to destroy the One Ring. He and the Dwarf Gimli are close friends."
+    },
+    {
+      "id": "5cd99d4bde30eff6ebccfd23",
+      "image": "./images/gimli.jpg",
+      "description": "Gimli is a fictional character in J. R. R. Tolkien's Middle-earth, appearing in The Lord of the Rings. A dwarf warrior, he is the son of Glóin, a member of Thorin's company in Tolkien's earlier book The Hobbit. He represents the race of Dwarves as a member of the Fellowship of the Ring. As such, he is one of the primary characters in the story. In the course of the adventure, Gimli aids the Ring-bearer Frodo Baggins, participates in the War of the Ring, and becomes close friends with Legolas, overcoming an ancient enmity of Dwarves and Elves."
+    },
+    {
+      "id": "5cd99d4bde30eff6ebccfc57",
+      "image": "./images/boromir.jpg"
+    }
+  ]
+}
