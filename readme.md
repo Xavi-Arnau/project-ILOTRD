@@ -7,6 +7,8 @@ of data.
 I tried my best to make a cool application using the data the API
 returns.
 
+You can find a [live demo here](https://ilotrd.netlify.app/)
+
 ## About The One API
 
 [The One API](https://the-one-api.dev/) is a project made and kept
